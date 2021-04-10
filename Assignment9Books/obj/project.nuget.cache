@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqFPUo6XEBjuAkOGwrP0KJ6hN3yQ0b+HEQ7KXdRusJrwh6WYBLNRpP+IzjJXa3bIoIOsz41JU6C13yD2ccuRmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gh267\\source\\repos\\Assignment9Books\\Assignment9Books\\Assignment9Books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gh267\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.0\\amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "C:\\Users\\gh267\\.nuget\\packages\\amazon.lambda.core\\2.0.0\\amazon.lambda.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\gh267\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.1.0\\amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "C:\\Users\\gh267\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Assignment9Books.deps.json
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Assignment9Books.runtimeconfig.json
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Assignment9Books.runtimeconfig.dev.json
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Assignment9Books.dll
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Assignment9Books.pdb
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.csprojAssemblyReference.cache
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.AssemblyInfoInputs.cache
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.AssemblyInfo.cs
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.csproj.CopyComplete
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.dll
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.pdb
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.genruntimeconfig.cache
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\bin\Debug\netcoreapp3.1\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\gh267\source\repos\Assignment9Books\Assignment9Books\obj\Debug\netcoreapp3.1\Assignment9Books.csproj.CoreCompileInputs.cache
